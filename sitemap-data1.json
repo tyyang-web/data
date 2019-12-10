@@ -4,7 +4,7 @@
   "unit": {  "type": "business",  "value": "Business first" },
   "positionName": "Homepage",
   "children": [
-    { /* PREVENTION */
+    { 
       "name": "Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
@@ -21,7 +21,7 @@
       ]
     },
 
-    { /* Treatment */
+    { 
       "name": "Treatment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
