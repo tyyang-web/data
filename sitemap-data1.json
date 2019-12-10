@@ -5,7 +5,7 @@
   "positionName": "Homepage",
   "children": [
 
-    { /* PREVENTION */
+    { 
       "name": "Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
@@ -36,7 +36,7 @@
       ]
     },
 
-    { /* Treatment */
+    { 
       "name": "Treatment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
@@ -60,8 +60,8 @@
       ]
     },
 
-    { /* Programs */
-      "name": "Treatment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+    { 
+      "name": "Programs", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
       "unit": { "type": "business", "value": "Business one" },
@@ -105,8 +105,8 @@
       ]
     },
 
-    { /* Providers */
-      "name": "Treatment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+    { 
+      "name": "Providers", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
       "unit": { "type": "business", "value": "Business one" },
@@ -129,7 +129,7 @@
       ]
     },
 
-    { /* About */
+    { 
       "name": "About US", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate", "profileUrl": "http://example.com/employee/profile", "tags": "",
       "office": "CEO office", "isLoggedUser": false,
