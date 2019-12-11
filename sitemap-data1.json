@@ -264,7 +264,14 @@
                 {
                   "name": "Capacity Building Initiative","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
                   "area": "PDF/XLSX Downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/HealthCare/CapacityBuilding.htm", "tags": "", "office": "", "isLoggedUser": false,
-                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+                  "children": [
+                    {
+                      "name": "Calendar of Events/Training","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                      "area": "", "profileUrl": "http://publichealth.lacounty.gov/phcommon/public/cal/index.cfm?unit=sapc&prog=pho&ou=ph&cal_id=24", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Calendar Page"
+                    }
+                  ]
                 },
                 {
                   "name": "Executive Briefing Resources","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
@@ -280,7 +287,7 @@
             },
             {
               "name": "Research, Trends and Data Reports","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
-              "area": "PDF Downloads and outside links", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "area": "PDF Downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/MDU/mdr.htm", "tags": "", "office": "", "isLoggedUser": false,
               "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
             }
           ]
@@ -363,22 +370,22 @@
         },
         {
           "name": "Cost Report","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/costreport/costreport.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         },
         {
           "name": "Our Partnership","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/partner.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
           "name": "Commission on Alcohol & Other Drugs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/coa.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
           "name": "Interest","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/interest.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         }
       ]
@@ -392,7 +399,24 @@
         {
           "name": "Our Services","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page",
+          "children": [
+            {
+              "name": "Prop64","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Prop64/Proposition64.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Advantages of SUD Free","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Links","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/links.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            }
+          ]
         },{
           "name": "Contact Us","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
