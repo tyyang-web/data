@@ -134,8 +134,8 @@
           "children": [
             {
               "name": "Sage Webinar Training","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
-              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+              "area": "Finance Dept description", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
             },
             {
               "name": "Sage Provider Meetings","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
