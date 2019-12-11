@@ -20,6 +20,16 @@
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         },
         {
+          "name": "Community Coalitions","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Services", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/pictures", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Materials","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/pictures", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
           "name": "Partners Agencies","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
           "area": "Outside links", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/partneragencies", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
@@ -350,6 +360,26 @@
           "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Cost Report","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Our Partnership","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Commission on Alcohol & Other Drugs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Interest","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         }
       ]
     },
@@ -376,6 +406,11 @@
         {
           "name": "Glossary of Terms","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Will show up under Treatment and Prevention", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Data","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Can show up under Treatment and Prevention", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         },
         {
