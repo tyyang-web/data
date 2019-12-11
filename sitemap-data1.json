@@ -22,25 +22,47 @@
         {
           "name": "Our Spot","imageUrl": "https://uniim-share.shutterfly.com/procsrserv/47a9ce10b3127cce98548addbd6d0000000000kAYuG7Fi3btWbLA/cC/rx=338/ry=286/cr=0.0,0.1035503,1,0.9497042",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         }
       ]
     },
 
     { 
-      "name": "Treatment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "name": "Treatment", "imageUrl": "http://sapccis.ph.lacounty.gov/sbat/img/walking-diamonds-greenBorder-NoWords.jpg",
       "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "department", "value": "Treatment Works" }, "positionName": "Landing Page ",
       "children": [
         {
-          "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "SBAT","imageUrl": "http://sapccis.ph.lacounty.gov/sbat/img/walking-diamonds-greenBorder-NoWords.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         },
         {
-          "name": "MAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "MAT","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Overview","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Providers","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Patients","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Contact","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
         }
       ]
     },
@@ -51,29 +73,51 @@
       "unit": { "type": "department", "value": "Recovery is possible" }, "positionName": "Landing Page",
       "children": [
         {
-          "name": "CORE Center","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "CORE Center","imageUrl": "http://publichealth.lacounty.gov/sapc/images/prevention/corecenter/cc-banner.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         },
         {
-          "name": "Workforce","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Workforce","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/clinician-hero-100.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Clinician","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/clinician-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Counselor","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/counselor-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Campaign Page"
+            },
+            {
+              "name": "Training Programs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/training-programs-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Careers Page","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/training-programs-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
         },
         {
           "name": "Manage Pain Safely","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         },
         {
           "name": "Vaping FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         },
         {
           "name": "Student Wellness","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         }
       ]
     },
@@ -86,12 +130,12 @@
         {
           "name": "SAGE","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
           "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         }
       ]
     },
@@ -104,17 +148,17 @@
         {
           "name": "Contact Us","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
           "name": "Comment","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
           "name": "FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "CTO "
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         }
       ]
     }
