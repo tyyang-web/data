@@ -128,9 +128,21 @@
       "unit": { "type": "department", "value": "Recovery is Possible" }, "positionName": "Landing Page",
       "children": [
         {
-          "name": "SAGE","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "SAGE","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+          "unit": { "type": "department", "value": "Various PDF Downloads", "desc":"Finance Dept description" }, "positionName": "Page",
+          "children": [
+            {
+              "name": "Sage Webinar Training","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Sage Provider Meetings","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
         },
         {
           "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
