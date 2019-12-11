@@ -6,12 +6,27 @@
 
     { 
       "name": "Prevention", "imageUrl": "https://uniim-share.shutterfly.com/procsrserv/47a9ce10b3127cce98548addbd6d0000000000kAYuG7Fi3btWbLA/cC/rx=338/ry=286/cr=0.0,0.1035503,1,0.9497042",
-      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "area": "PDF Downloads and outside links", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "department", "value": "Prevention First" }, "positionName": "Landing Page",
       "children": [
         {
           "name": "Calendar/Events","imageUrl": "https://uniim-share.shutterfly.com/procsrserv/47a9ce10b3127cce98548addbd6d0000000000kAYuG7Fi3btWbLA/cC/rx=338/ry=286/cr=0.0,0.1035503,1,0.9497042",
           "area": "Display upcoming events", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/prevention/calendar.htm", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Media","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Images and Videos", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/pictures", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Partners Agencies","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Outside links", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/partneragencies", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Initiative and Reources","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "RSS READ", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/partneragencies", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         },
         {
@@ -37,7 +52,7 @@
           ]
         },
         {
-          "name": "Our Spot","imageUrl": "https://uniim-share.shutterfly.com/procsrserv/47a9ce10b3127cce98548addbd6d0000000000kAYuG7Fi3btWbLA/cC/rx=338/ry=286/cr=0.0,0.1035503,1,0.9497042",
+          "name": "Our Spot","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
           "area": "Can be a direct link", "profileUrl": "https://parks.lacounty.gov/myspot/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
         }
@@ -122,17 +137,17 @@
           ]
         },
         {
-          "name": "Manage Pain Safely","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Manage Pain Safely","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         },
         {
-          "name": "Vaping FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Vaping FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         },
         {
-          "name": "Student Wellness","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Student Wellness","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
         }
@@ -332,7 +347,7 @@
           ]
         },
         {
-          "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         }
@@ -345,17 +360,26 @@
       "unit": { "type": "department", "value": "About SAPC" }, "positionName": "Landing Page",
       "children": [
         {
-          "name": "Contact Us","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Our Services","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },{
+          "name": "Contact Us","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
-          "name": "Comment","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Comment","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         },
         {
-          "name": "FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+          "name": "Glossary of Terms","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Will show up under Treatment and Prevention", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
         }
