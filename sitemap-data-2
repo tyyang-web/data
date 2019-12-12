@@ -1,0 +1,450 @@
+{
+  "name": "SAPC", "imageUrl": "http://www.publichealth.lacounty.gov/images/2016/PublicHealthHE-Blue.gif", 
+  "area": "Landing Page", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false, 
+  "unit": {  "type": "business",  "value": "Business first" }, "positionName": "Homepage",
+  "children": [
+
+    { 
+      "name": "Prevention", "imageUrl": "https://uniim-share.shutterfly.com/procsrserv/47a9ce10b3127cce98548addbd6d0000000000kAYuG7Fi3btWbLA/cC/rx=338/ry=286/cr=0.0,0.1035503,1,0.9497042",
+      "area": "PDF Downloads and outside links", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "department", "value": "Prevention First" }, "positionName": "Landing Page",
+      "children": [
+        {
+          "name": "Calendar/Events","imageUrl": "https://uniim-share.shutterfly.com/procsrserv/47a9ce10b3127cce98548addbd6d0000000000kAYuG7Fi3btWbLA/cC/rx=338/ry=286/cr=0.0,0.1035503,1,0.9497042",
+          "area": "Display upcoming events", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/prevention/calendar.htm", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Media","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Images and Videos", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/pictures", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Community Coalitions","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Services", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/pictures", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Materials","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/pictures", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Partners Agencies","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Outside links", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/partneragencies", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Initiative and Reources","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "RSS READ", "profileUrl": "https://lacountypreventionservicesfy1920.shutterfly.com/partneragencies", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Bigger Choices","imageUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/teens/choicesbanner.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Consequences","imageUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/teens/choicesbanner.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/prevention/calendar.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Health Effects","imageUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/teens/choicesbanner.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Bigger Choices","imageUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/teens/choicesbanner.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
+        },
+        {
+          "name": "Our Spot","imageUrl": "https://parks.lacounty.gov/wp-content/uploads/2018/03/News-and-Announcements-Background-Picture.jpg",
+          "area": "Can be a direct link", "profileUrl": "https://parks.lacounty.gov/myspot/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        }
+      ]
+    },
+
+    { 
+      "name": "Treatment", "imageUrl": "http://sapccis.ph.lacounty.gov/sbat/img/walking-diamonds-greenBorder-NoWords.jpg",
+      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "department", "value": "Treatment Works" }, "positionName": "Landing Page ",
+      "children": [
+        {
+          "name": "SBAT","imageUrl": "http://sapccis.ph.lacounty.gov/sbat/img/walking-diamonds-greenBorder-NoWords.jpg",
+          "area": "Page is style-able", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "MAT","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Overview","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Providers","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Patients","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Contact","imageUrl": "http://publichealth.lacounty.gov/sapc/mat/images/header-image.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
+        }
+      ]
+    },
+
+    { 
+      "name": "Programs", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "department", "value": "Recovery is possible" }, "positionName": "Landing Page",
+      "children": [
+        {
+          "name": "CORE Center","imageUrl": "http://publichealth.lacounty.gov/sapc/images/prevention/corecenter/cc-banner.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
+        },
+        {
+          "name": "Workforce","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/clinician-hero-100.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Clinician","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/clinician-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Counselor","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/counselor-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Training Programs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/training-programs-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Careers Page","imageUrl": "http://publichealth.lacounty.gov/sapc/images/workforce/training-programs-hero-100.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
+        },
+        {
+          "name": "Manage Pain Safely","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
+        },
+        {
+          "name": "Vaping FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
+        },
+        {
+          "name": "Student Wellness","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page"
+        }
+      ]
+    },
+
+    { 
+      "name": "Providers", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "department", "value": "Recovery is Possible" }, "positionName": "Landing Page",
+      "children": [
+        {
+          "name": "Network Providers","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+          "area": "Various PDF Downloads", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Provider Manual and Forms","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "Various PDF/DOC downloads", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/NetworkProviders/Forms.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Provider Meetings, Bulletins, Briefs and Factsheets","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "Various PDF downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/NetworkProviders/Regulations.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Capacity Building and Training Resources","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "PDF / XLSX Downloads, Outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Event/event.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+              "children": [
+                {
+                  "name": "Provider Event Calendar","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "View Upcoming Events", "profileUrl": "http://publichealth.lacounty.gov/phcommon/public/cal/index.cfm?unit=sapc&prog=pho&ou=ph&cal_id=24", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Calendar"
+                },
+                {
+                  "name": "Provider Meetings, Bulletins, Briefs and Factsheets","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "Various PDF downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/NetworkProviders/Regulations.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                }
+              ]
+            },
+            {
+              "name": "Provider Information","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "Lists other programs", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+              "children": [
+                {
+                  "name": "Funding Opportunities","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "", "profileUrl": "http://publichealth.lacounty.gov/phcommon/public/cal/index.cfm?unit=sapc&prog=pho&ou=ph&cal_id=24", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+                  "children": [
+                    {
+                      "name": "RFSQ for Substance Use Disorder Services","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                      "area": "PDF Downloads", "profileUrl": "http://publichealth.lacounty.gov/phcommon/public/cal/index.cfm?unit=sapc&prog=pho&ou=ph&cal_id=24", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                    }
+                  ]
+                },
+                {
+                  "name": "Criminal Justice Programs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "Various PDF downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/NetworkProviders/Regulations.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+                  "children": [
+                    {
+                      "name": "Assembly Bill 109","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                      "area": "PDF downloads and links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/AB109/AB_109.htm", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+                      "children": [
+                        {
+                          "name": "Public Safety Realignment Act (AB 109) Substance Use Disorder Stakeholders Input Meeting","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                          "area": "View Video Links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/AB109/AB109Meeting.htm", "tags": "", "office": "", "isLoggedUser": false,
+                          "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+                          "children": [
+                            {
+                              "name": "Video of Stakeholder Input Meeting 12/13/2011, Part I","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                              "area": "View Video Links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/AB109/Meeting121311/Part1/Player.html", "tags": "", "office": "", "isLoggedUser": false,
+                              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                            },
+                            {
+                              "name": "Video of Stakeholder Input Meeting 12/13/2011, Part II","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                              "area": "View Video Links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/AB109/Meeting121311/Part2/Player.html", "tags": "", "office": "", "isLoggedUser": false,
+                              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Penal Code 1210","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                      "area": "Various PDF downloads", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/NetworkProviders/Regulations.htm", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stakeholder","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "DMC-ODS Pre-Launch Stakeholder Process", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/NetworkProviders/Stakeholder.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+              "children": [
+                {
+                  "name": "Capacity Building Initiative","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "PDF/XLSX Downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/HealthCare/CapacityBuilding.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+                  "children": [
+                    {
+                      "name": "Calendar of Events/Training","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                      "area": "", "profileUrl": "http://publichealth.lacounty.gov/phcommon/public/cal/index.cfm?unit=sapc&prog=pho&ou=ph&cal_id=24", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Calendar Page"
+                    }
+                  ]
+                },
+                {
+                  "name": "Executive Briefing Resources","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "PDF Downloads", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/HealthCare/ExecutiveBriefing/ExecutiveBrief.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                },
+                {
+                  "name": "Video Recording, Part II","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "Video", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/media/SystemTransformation/Part1/Default.html", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+                }
+              ]
+            },
+            {
+              "name": "Research, Trends and Data Reports","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "PDF Downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/MDU/mdr.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+            }
+          ]
+        },
+        {
+          "name": "SAGE","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+          "area": "Various PDF Downloads", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Landing Page",
+          "children": [
+            {
+              "name": "Sage Webinar Training","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "View Webinars", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/SageWebinars.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page",
+              "children": [
+                {
+                  "name": "Referral Connections Webinar","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/Webinars/092519/Presentation092519.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "Time and Staff Modifier Documentation","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "PDF Downloads", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/Webinars/102819/Presentation102819.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "Secondary Sage Providers Technical Assistance","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "Video", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/Webinars/100219/Presentation100219.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "Billing Denials Troubleshooting Pre-Adjudication Workflow","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "PDF/XLSX Downloads and outside links", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/Webinars/020719/Presentation020719.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "Member Authorizations","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "PDF Downloads", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/Webinars/062818/Presentation062818.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "Sage Denial Troubleshooting and Replacement Claims Submission","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "PDF Downloads", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/Webinars/041918/Presentation041918.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "Sage Core Functions, Billing Fundamentals, KPI Dashboards","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "Video", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/media/SystemTransformation/Part1/Default.html", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                }
+              ]
+            },
+            {
+              "name": "Sage Provider Meetings","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/SageProviderMeetings.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page",
+              "children": [
+                {
+                  "name": "November 27, 2018 - Sage Provider Advisory Meeting","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Sage/pm/112718/pm112718.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "September 25, 2018 - Sage Provider Advisory Meeting","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/HealthCare/ExecutiveBriefing/ExecutiveBrief.htm", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                },
+                {
+                  "name": "July 12, 2018 - Sage Enhancements","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+                  "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/media/SystemTransformation/Part1/Default.html", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Video Page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SBAT","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Cost Report","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/costreport/costreport.htm", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Our Partnership","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/partner.htm", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Commission on Alcohol & Other Drugs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/coa.htm", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Interest","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/interest.htm", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        }
+      ]
+    },
+
+    { 
+      "name": "About US", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "department", "value": "About SAPC" }, "positionName": "Landing Page",
+      "children": [
+        {
+          "name": "Our Services","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page",
+          "children": [
+            {
+              "name": "Prop64","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/Prop64/Proposition64.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Advantages of SUD Free","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            },
+            {
+              "name": "Links","imageUrl": "http://publichealth.lacounty.gov/sapc/images/SageBannerNew.jpg",
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/links.htm", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
+            }
+          ]
+        },{
+          "name": "Contact Us","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Comment","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        },
+        {
+          "name": "Glossary of Terms","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Will show up under Treatment and Prevention", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "Data","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Can show up under Treatment and Prevention", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Info Page"
+        },
+        {
+          "name": "FAQs","imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "department", "value": "", "desc":"Finance Dept description" }, "positionName": "Page"
+        }
+      ]
+    }
+
+  ]
+
+}
