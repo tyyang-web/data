@@ -1,0 +1,26 @@
+{
+  "name": "DPH", "imageUrl": "http://www.publichealth.lacounty.gov/images/2016/PublicHealthHE-Blue.gif", 
+  "area": "Landing Page", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false, 
+  "unit": {  "type": "business",  "value": "Business first" }, "positionName": "CURRENT SITEMAP",
+  "children": [
+    { 
+      "name": "Health Promotion Bureau", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "", "value": "" }, "positionName": "Info Page",
+      "children": [
+        { 
+          "name": "SAPC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "", "value": "" }, "positionName": "Info Page",
+          "children": [
+            { 
+              "name": "Dr. Gary Tsai", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "", "value": "" }, "positionName": "Director of SAPC/Medical Director"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
