@@ -1,11 +1,11 @@
 {
   "name": "DPH", "imageUrl": "http://www.publichealth.lacounty.gov/images/2016/PublicHealthHE-Blue.gif", 
-  "area": "Landing Page", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false, 
+  "area": "Landing Page", "profileUrl": "http://publichealth.lacounty.gov/index.htm", "tags": "", "office": "", "isLoggedUser": false, 
   "unit": {  "type": "business",  "value": "Business first" }, "positionName": "Department of Public Health",
   "children": [
     { 
       "name": "Health Promotion Bureau", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+      "area": "", "profileUrl": "http://publichealth.lacounty.gov/index.htm", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "", "value": "" }, "positionName": "Bureau",
       "children": [
         { 
@@ -14,8 +14,8 @@
           "unit": { "type": "", "value": "" }, "positionName": "Division",
           "children": [
             { 
-              "name": "Director of SAPC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/pics/gary-tsai.jpg", "tags": "", "office": "", "isLoggedUser": false,
+              "name": "Director of SAPC", "imageUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/pics/gary-tsai.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
@@ -94,8 +94,8 @@
               ]
             },
             { 
-              "name": "Medical Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/pics/gary-tsai.jpg", "tags": "", "office": "", "isLoggedUser": false,
+              "name": "Medical Director", "imageUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/pics/gary-tsai.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
