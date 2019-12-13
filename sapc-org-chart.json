@@ -25,27 +25,27 @@
                   "children": [
                     { 
                       "name": "Associate Medical Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                       "unit": { "type": "", "value": "" }, "positionName": "Keith Hermanstyne"
                     },
                     { 
                       "name": "System of Care Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                       "unit": { "type": "", "value": "" }, "positionName": "Yanira Lima",
                       "children": [
                         { 
                           "name": "Quality of Care", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                          "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "provider relations, provider manuals", "office": "", "isLoggedUser": false,
+                          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "provider relations, provider manuals", "office": "", "isLoggedUser": false,
                           "unit": { "type": "", "value": "" }, "positionName": "---"
                         },
                         { 
                           "name": "Adult Services", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                          "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "CENS, re-entry, moms & kids", "office": "", "isLoggedUser": false,
+                          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "CENS, re-entry, moms & kids", "office": "", "isLoggedUser": false,
                           "unit": { "type": "", "value": "" }, "positionName": "---"
                         },
                         { 
                           "name": "Youth System of Care", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                          "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                          "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                           "unit": { "type": "", "value": "" }, "positionName": "Elizabeth Norris-Walczak"
                         }
                       ]
