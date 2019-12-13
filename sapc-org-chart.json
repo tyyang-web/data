@@ -99,6 +99,11 @@
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
+                  "name": "Associate Med. Director of Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "MAT, Safemed LA, Vaping, Student well being centers", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Lello Tesema"
+                },
+                { 
                   "name": "AVRC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "of Treatment Services Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "Tony Hill"
