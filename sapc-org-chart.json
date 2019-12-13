@@ -1,22 +1,78 @@
 {
   "name": "DPH", "imageUrl": "http://www.publichealth.lacounty.gov/images/2016/PublicHealthHE-Blue.gif", 
   "area": "Landing Page", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false, 
-  "unit": {  "type": "business",  "value": "Business first" }, "positionName": "CURRENT SITEMAP",
+  "unit": {  "type": "business",  "value": "Business first" }, "positionName": "Department of Public Health",
   "children": [
     { 
       "name": "Health Promotion Bureau", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page",
+      "unit": { "type": "", "value": "" }, "positionName": "Bureau",
       "children": [
         { 
           "name": "SAPC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-          "unit": { "type": "", "value": "" }, "positionName": "Info Page",
+          "unit": { "type": "", "value": "" }, "positionName": "Division",
           "children": [
             { 
-              "name": "Dr. Gary Tsai", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "name": "Director of SAPC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-              "unit": { "type": "", "value": "" }, "positionName": "Director of SAPC/Medical Director"
+              "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
+              "children": [
+                { 
+                  "name": "Deputy Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "of Treatment Services Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Michelle Gibson"
+                },
+                { 
+                  "name": "Deputy Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": " of Prevention Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Lello Tesema"
+                },
+                { 
+                  "name": "Contracts & Compliance Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Daniel Deniz"
+                },
+                { 
+                  "name": "SND", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Strategic & Network Development Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Daniel Deniz"
+                },
+                { 
+                  "name": "SND", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Strategic & Network Development Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Daniel Deniz"
+                }
+              ]
+            },
+            { 
+              "name": "Medical Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
+              "children": [
+                { 
+                  "name": "AVRC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "of Treatment Services Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Tony Hill"
+                },
+                { 
+                  "name": "Associate Medical Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": " of Prevention Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Keith Hermanstyne",
+                  "children": [
+                    { 
+                      "name": "QIUM", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Quality improvement & Utilization Management", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": ""
+                    }
+                  ]
+                },
+                { 
+                  "name": "HODA", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Tina Kim"
+                }
+              ]
             }
           ]
         }
