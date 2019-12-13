@@ -4,80 +4,24 @@
   "unit": {  "type": "business",  "value": "Business first" }, "positionName": "CURRENT SITEMAP",
   "children": [
     { 
-      "name": "About", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/public/aboutus/aboutdisplay.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-    { 
-      "name": "FAQ", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/public/faqs/faqdisplist.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-    { 
-      "name": "Comment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/comments/comments.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-    { 
-      "name": "Contact Us", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/public/contactus/pubdisplay.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-
-    
-    { 
-      "name": "Educational Resources", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "http://publichealth.lacounty.gov/sapc/education.htm", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "department", "value": "" }, "positionName": "Landing Page"
-    },
-    { 
-      "name": "Prevention System of Services", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "http://publichealth.lacounty.gov/sapc/prevention/PreventionLinks.htm", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "department", "value": "" }, "positionName": "Landing Page"
+      "name": "Health Promotion Bureau", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "", "profileUrl": "", "tags": "", "office": "", "isLoggedUser": false,
+      "unit": { "type": "", "value": "" }, "positionName": "Info Page",
+      "children": [
+        { 
+          "name": "SAPC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "", "profileUrl": "", "tags": "", "office": "", "isLoggedUser": false,
+          "unit": { "type": "", "value": "" }, "positionName": "Info Page",
+          "children": [
+            { 
+              "name": "Dr. Gary Tsai", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "", "profileUrl": "", "tags": "", "office": "", "isLoggedUser": false,
+              "unit": { "type": "", "value": "" }, "positionName": "Director of SAPC/Medical Director"
+            }
+          ]
+        }
+      ]
     }
-
-  ]
-
-},
-
-{
-  "name": "DPH", "imageUrl": "http://www.publichealth.lacounty.gov/images/2016/PublicHealthHE-Blue.gif", 
-  "area": "Landing Page", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false, 
-  "unit": {  "type": "business",  "value": "Business first" }, "positionName": "CURRENT SITEMAP",
-  "children": [
-    { 
-      "name": "About", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/public/aboutus/aboutdisplay.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-    { 
-      "name": "FAQ", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/public/faqs/faqdisplist.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-    { 
-      "name": "Comment", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/comments/comments.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-    { 
-      "name": "Contact Us", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "https://admin.publichealth.lacounty.gov/phcommon/public/contactus/pubdisplay.cfm?ou=ph&prog=pho&unit=sapc", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "", "value": "" }, "positionName": "Info Page"
-    },
-
-    
-    { 
-      "name": "Educational Resources", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "http://publichealth.lacounty.gov/sapc/education.htm", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "department", "value": "" }, "positionName": "Landing Page"
-    },
-    { 
-      "name": "Prevention System of Services", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "", "profileUrl": "http://publichealth.lacounty.gov/sapc/prevention/PreventionLinks.htm", "tags": "", "office": "", "isLoggedUser": false,
-      "unit": { "type": "department", "value": "" }, "positionName": "Landing Page"
-    }
-
   ]
 
 }
