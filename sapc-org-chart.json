@@ -19,14 +19,50 @@
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
-                  "name": "Deputy Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "of Treatment Services Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-                  "unit": { "type": "", "value": "" }, "positionName": "Michelle Gibson"
+                  "name": "Dep. Director of Treatment Services Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "Michelle Gibson",
+                  "children": [
+                    { 
+                      "name": "System of Care Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": "Yanira Lima",
+                      "children": [
+                        { 
+                          "name": "Quality of Care", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                          "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "provider relations, provider manuals", "office": "", "isLoggedUser": false,
+                          "unit": { "type": "", "value": "" }, "positionName": "---"
+                        },
+                        { 
+                          "name": "Adult Services", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                          "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "CENS, re-entry, moms & kids", "office": "", "isLoggedUser": false,
+                          "unit": { "type": "", "value": "" }, "positionName": "---"
+                        },
+                        { 
+                          "name": "Youth System of Care", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                          "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                          "unit": { "type": "", "value": "" }, "positionName": "Elizabeth Norris-Walczak"
+                        }
+                      ]
+                    }
+                  ]
                 },
                 { 
-                  "name": "Deputy Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": " of Prevention Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-                  "unit": { "type": "", "value": "" }, "positionName": "Lello Tesema"
+                  "name": "Dep. of Prevention Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "",
+                  "children": [
+                    { 
+                      "name": "Associate Med. Director of Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "MAT, Safemed LA, Vaping, Student well being centers", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": "Lello Tesema"
+                    },
+                    { 
+                      "name": "Prevention Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "prevention provider, community & youth", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": "Stephanie Chen"
+                    }
+                  ]
                 },
                 { 
                   "name": "Contracts & Compliance Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -36,12 +72,19 @@
                 { 
                   "name": "SND", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Strategic & Network Development Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-                  "unit": { "type": "", "value": "" }, "positionName": "Daniel Deniz"
-                },
-                { 
-                  "name": "SND", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "Strategic & Network Development Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
-                  "unit": { "type": "", "value": "" }, "positionName": "Daniel Deniz"
+                  "unit": { "type": "", "value": "" }, "positionName": "Vacant",
+                  "children": [
+                    { 
+                      "name": "SPN Unit Chief", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "Legislative analysis, pilots, strategic plan", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": "Christina Vane-Perez"
+                    },
+                    { 
+                      "name": "EAPU Chief", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Equitable Access & Promotion Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": "Antonne Moore"
+                    }
+                  ]
                 }
               ]
             },
@@ -71,6 +114,11 @@
                   "name": "HODA", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "Tina Kim"
+                },
+                { 
+                  "name": "CST", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Clinical Standards & Training", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "unit": { "type": "", "value": "" }, "positionName": "David Hindman"
                 }
               ]
             }
