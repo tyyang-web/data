@@ -20,7 +20,7 @@
               "children": [
                 { 
                   "name": "Dep. Director of Treatment Services", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "area": "Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "Michelle Gibson",
                   "children": [
                     { 
@@ -49,7 +49,7 @@
                 },
                 { 
                   "name": "Deputy of Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "area": "Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "",
                   "children": [
                     { 
@@ -65,8 +65,8 @@
                   ]
                 },
                 { 
-                  "name": "Contracts & Compliance Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                  "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                  "name": "Contracts & Compliance", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "Daniel Deniz"
                 },
                 { 
