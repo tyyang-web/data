@@ -15,7 +15,7 @@
           "children": [
             { 
               "name": "Director of SAPC", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/pics/gary-tsai.jpg", "tags": "", "office": "", "isLoggedUser": false,
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
@@ -23,6 +23,11 @@
                   "area": "Branch", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "Michelle Gibson",
                   "children": [
+                    { 
+                      "name": "Associate Medical Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+                      "unit": { "type": "", "value": "" }, "positionName": "Keith Hermanstyne"
+                    },
                     { 
                       "name": "System of Care Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                       "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
@@ -54,7 +59,7 @@
                   "children": [
                     { 
                       "name": "Associate Med. Director of Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                      "area": "Strategic Planning Development Unit", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "MAT, Safemed LA, Vaping, Student well being centers", "office": "", "isLoggedUser": false,
+                      "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "MAT, Safemed LA, Vaping, Student well being centers", "office": "", "isLoggedUser": false,
                       "unit": { "type": "", "value": "" }, "positionName": "Lello Tesema"
                     },
                     { 
@@ -90,7 +95,7 @@
             },
             { 
               "name": "Medical Director", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-              "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
+              "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/images/pics/gary-tsai.jpg", "tags": "", "office": "", "isLoggedUser": false,
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
