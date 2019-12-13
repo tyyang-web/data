@@ -19,7 +19,7 @@
               "unit": { "type": "", "value": "" }, "positionName": "Dr. Gary Tsai",
               "children": [
                 { 
-                  "name": "Dep. Director of Treatment Services Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "name": "Dep. Director of Treatment Services", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "Michelle Gibson",
                   "children": [
@@ -48,7 +48,7 @@
                   ]
                 },
                 { 
-                  "name": "Dep. of Prevention Branch", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "name": "Deputy of Prevention", "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
                   "unit": { "type": "", "value": "" }, "positionName": "",
                   "children": [
