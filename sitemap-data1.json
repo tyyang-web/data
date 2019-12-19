@@ -5,7 +5,7 @@
   "children": [
 
     { 
-      "name": "Programs", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+      "name": "Programs", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
       "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "department", "value": "Recovery is possible" }, "positionName": "Landing Page",
       "children": [
@@ -42,17 +42,17 @@
           ]
         },
         {
-          "name": "Manage Pain Safely","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Manage Pain Safely","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Landing Page"
         },
         {
-          "name": "Vaping FAQs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Vaping FAQs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Landing Page"
         },
         {
-          "name": "Student Wellness","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Student Wellness","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Landing Page"
         }
@@ -60,42 +60,42 @@
     },
 
     { 
-      "name": "Public", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+      "name": "Public", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
       "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "department", "value": "Recovery is possible" }, "positionName": "Landing Page",
       "children": [
         {
-          "name": "Vaping FAQs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Vaping FAQs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Landing Page"
         },
         {
-          "name": "Glossary/Type of Substance","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Glossary/Type of Substance","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "Terms and Substance", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "glossary": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"SUD terms" }, "positionName": "Info Page"
         },
         {
-          "name": "Data","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Data","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "Charts and info for public", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "glossary": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"SUD terms" }, "positionName": "Info Page"
         },
         {
-          "name": "Free Services/No Prejudice","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Free Services/No Prejudice","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "glossary": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"SUD terms" }, "positionName": "Info Page"
         },
         {
-          "name": "Prop 64","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Prop 64","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "Info on prop. 64", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "glossary": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"SUD terms" }, "positionName": "Info Page"
         },
         {
-          "name": "Advantages of SUD Free","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Advantages of SUD Free","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "List out why you need to be SUD Free", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "glossary": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"SUD terms" }, "positionName": "Info Page"
         },
         {
-          "name": "Links","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Links","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "List of outside links", "profileUrl": "http://publichealth.lacounty.gov/sapc/links.htm", "tags": "", "glossary": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"SUD terms" }, "positionName": "Info Page"
         }
@@ -211,7 +211,7 @@
 
 
     { 
-      "name": "Providers", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+      "name": "Providers", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
       "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "department", "value": "Recovery is Possible" }, "positionName": "Landing Page",
       "children": [
@@ -398,27 +398,27 @@
           ]
         },
         {
-          "name": "SBAT","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "SBAT","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         },
         {
-          "name": "Cost Report","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Cost Report","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/costreport/costreport.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
         },
         {
-          "name": "Our Partnership","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Our Partnership","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/partner.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         },
         {
-          "name": "Commission on Alcohol & Other Drugs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Commission on Alcohol & Other Drugs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/coa.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         },
         {
-          "name": "Interest","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Interest","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://phwebstg.ph.lacounty.gov/sapc/interest.htm", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         }
@@ -426,31 +426,31 @@
     },
 
     { 
-      "name": "About US", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+      "name": "About US", "imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
       "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
       "unit": { "type": "department", "value": "About SAPC" }, "positionName": "Landing Page",
       "children": [
         {
-          "name": "Our Services","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Our Services","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"},
         {
-          "name": "Contact Us","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Contact Us","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         },
         {
-          "name": "Comment/Feedback","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "Comment/Feedback","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         },
         {
-          "name": "The SAPC Advantage","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "The SAPC Advantage","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "Why you should listen to SAPC", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Info Page"
         },
         {
-          "name": "FAQs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-new-logo-squared2.jpg",
+          "name": "FAQs","imageUrl": "http://publichealth.lacounty.gov/sapc/images/home/sapc-badge.png",
           "area": "", "profileUrl": "http://lapublichealth.org/sapc/", "tags": "", "office": "", "isLoggedUser": false,
           "unit": { "type": "department", "value": "", "desc":"" }, "positionName": "Page"
         }
